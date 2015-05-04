@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://deada666.github.io/sitemap.xml 
+Sitemap: http://blog.eveilheart.net/sitemap.xml 
