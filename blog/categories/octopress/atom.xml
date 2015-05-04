@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: octopress | Evil Blog]]></title>
-  <link href="http://evilheart.net/blog/categories/octopress/atom.xml" rel="self"/>
-  <link href="http://evilheart.net/"/>
-  <updated>2015-05-04T08:42:24+03:00</updated>
-  <id>http://evilheart.net/</id>
+  <link href="http://deada666.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://deada666.github.io/"/>
+  <updated>2015-05-04T09:16:31+03:00</updated>
+  <id>http://deada666.github.io/</id>
   <author>
     <name><![CDATA[Evil]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Таки решился]]></title>
-    <link href="http://evilheart.net/blog/2015/05/04/taki-rieshilsia/"/>
+    <link href="http://deada666.github.io/blog/2015/05/04/taki-rieshilsia/"/>
     <updated>2015-05-04T07:09:51+03:00</updated>
-    <id>http://evilheart.net/blog/2015/05/04/taki-rieshilsia</id>
+    <id>http://deada666.github.io/blog/2015/05/04/taki-rieshilsia</id>
     <content type="html"><![CDATA[<p>Прошло полтора года с момента покупки мной доменного имени.
 Долгое время я страдал фигней, пытался написать свой blog engine, сверстать шаблон и т.д.
 Но видимо это все не мое&hellip; Почему я так думаю? Во-первых я не верстальщик и не дизайнер,
